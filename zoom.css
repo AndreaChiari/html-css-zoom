@@ -47,7 +47,6 @@ main{
 
 .container{
     max-width: 1800px;
-    height: 160px;
     margin: auto;
     padding: 40px;
     gap: 10px;
@@ -57,7 +56,7 @@ main{
 
 .imgcontainer{
     height: 150px;
-    width: 400px;
+    width: 195px;
     background-image: url(https://picsum.photos/seed/picsum/260/110);
     background-size: cover;
     background-repeat: no-repeat;
